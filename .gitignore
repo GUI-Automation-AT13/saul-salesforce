@@ -3,3 +3,4 @@ build/
 .classpath
 .idea/
 .vscode/
+src/main/resources/general.properties
